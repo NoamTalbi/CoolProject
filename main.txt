@@ -1,0 +1,3 @@
+do stuff
+print hello world
+exit program
